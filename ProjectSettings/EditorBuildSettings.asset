@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/HOP.unity
+    guid: bd29b793c9716a444a8a075c1df7d8d5
+  - enabled: 0
     path: Assets/Levels/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Finish.unity
+    guid: 94d32abed52feb544b8380119baa8b0a
+  - enabled: 1
+    path: Assets/Begin Scene.unity
+    guid: 78782f35ac8749e4f853ee38cec8eb5f
   m_configObjects: {}
